@@ -33,7 +33,7 @@ export default function Dictionary() {
             <input
               type="search"
               onChange={handleKeywordChange}
-              className="form-control  "
+              className="form-control"
             />
           </div>
 
